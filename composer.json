@@ -1,0 +1,15 @@
+{
+  "name": "jeyroik/extas-q-api",
+  "description": "Quality api package",
+  "require": {
+    "jeyroik/extas-q-users-histories": "*",
+    "jeyroik/extas-q-indexes": "*",
+    "jeyroik/extas-q-crawlers-jira": "*",
+    "jeyroik/extas-jsonrpc": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "extas\\": "src/"
+    }
+  }
+}
