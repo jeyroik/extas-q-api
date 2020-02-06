@@ -4,8 +4,9 @@
   "require": {
     "jeyroik/extas-q-users-histories": "*",
     "jeyroik/extas-q-indexes": "*",
-    "jeyroik/extas-q-crawlers-jira": "*",
-    "jeyroik/extas-jsonrpc": "*"
+    "jeyroik/extas-q-crawlers-jira-qualification": "*",
+    "jeyroik/extas-jsonrpc": "*",
+    "jeyroik/extas-envs": "*"
   },
   "autoload": {
     "psr-4": {
