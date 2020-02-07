@@ -6,6 +6,7 @@
     "jeyroik/extas-q-indexes": "*",
     "jeyroik/extas-q-crawlers-jira-qualification": "*",
     "jeyroik/extas-q-crawlers-jira-reaction": "*",
+    "jeyroik/extas-q-crawlers-jira-issues": "*",
     "jeyroik/extas-jsonrpc": "*",
     "jeyroik/extas-envs": "*"
   },
