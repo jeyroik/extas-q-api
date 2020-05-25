@@ -9,8 +9,9 @@
     "jeyroik/extas-q-crawlers-jira-issues": "*",
     "jeyroik/extas-q-crawlers-jira-control": "*",
     "jeyroik/extas-q-crawlers-jira-kpi": "*",
-    "jeyroik/extas-jsonrpc": "*",
-    "jeyroik/extas-envs": "*"
+    "jeyroik/extas-jsonrpc": "1.*",
+    "jeyroik/extas-envs": "1.*",
+    "jeyroik/extas-repositories-mongo": "1.*"
   },
   "autoload": {
     "psr-4": {
